@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/Drum-kit.git
+    git clone https://github.com/Anuragroy24/Drum-Kit.git
     ```
 2. **Navigate to the project directory:**
     ```bash
@@ -42,6 +42,9 @@ To run this project locally, follow these steps:
 
 - Press the corresponding keys on your keyboard to play different drum sounds.
 - Visual indicators will highlight the pressed keys.
+
+
+
 
 Here are some pictures of the web App:
 
